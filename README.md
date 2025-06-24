@@ -74,11 +74,11 @@ const Long = {
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=git" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
    <img src="https://skillicons.dev/icons?i=vue" title="Vue" />
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
 </p>
 
 ### 📊 **Data & Analytics**
