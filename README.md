@@ -55,7 +55,6 @@ const Long = {
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=vue" title="Vue" />
 </p>
 
 ### ☁️ **Cloud & Infrastructure**
@@ -75,8 +74,10 @@ const Long = {
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=git" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+   <img src="https://skillicons.dev/icons?i=vue" title="Vue" />
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
 </p>
 
