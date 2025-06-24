@@ -30,7 +30,7 @@ const Long = {
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
     currentFocus: ["Building scalable applications", "Cloud infrastructure", "Data analytics"],
     technologies: {
-        backend: ["C# .NET", "Python", "Node.js"],
+        backend: ["C# .NET", "Python", "Node.js","Vue.js"],
         database: ["SQL Server", "MySQL", "Data Mining"],
         cloud: ["AWS", "Google Cloud", "Cloudflare"],
         tools: ["Docker", "Nginx", "Ubuntu", "VS Code"]
@@ -55,6 +55,7 @@ const Long = {
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue" />
 </p>
 
 ### ☁️ **Cloud & Infrastructure**
