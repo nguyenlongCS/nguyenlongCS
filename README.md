@@ -107,6 +107,13 @@ const Long = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenlongCS&theme=react-dark&hide_border=true&area=true" />
 </div>
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://nguyenlongcs.github.io/snk/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 ---
 
