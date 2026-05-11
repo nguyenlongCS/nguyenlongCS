@@ -7,12 +7,6 @@
   <img src="https://img.shields.io/github/followers/nguyenlongCS?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<div align="center">
-  <a href="http://nguyenlongcs.github.io/portfolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/_Portfolio-667EEA?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
